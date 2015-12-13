@@ -1,0 +1,27 @@
+Candidate
+
+1.  Vote -
+    vote for self
+
+2. Ask everyone for vote
+3. Decide if to become a Leader
+    based on num of votes
+
+
+
+Follower
+
+1. Vote for Candidate
+2. Decide if to bec candidate
+    if timeout of
+
+Leader
+
+1. Tell everyone leader id
+2. Proces request
+
+
+
+State{
+    processRequest();
+}
